@@ -1,0 +1,51 @@
+symbol,name,sector,market_cap,date_of_listing
+BEL.NS,Bharat Electronics Limited,Industrials,3021131481088,2002-07-01 03:45:00+00:00
+SBIN.NS,State Bank of India,Financial Services,8963852599296,1996-01-01 03:45:00+00:00
+MAXHEALTH.NS,Max Healthcare Institute Limited,Healthcare,1129892675584,2020-08-21 03:45:00+00:00
+HINDALCO.NS,Hindalco Industries Limited,Basic Materials,1810453364736,1996-01-01 03:45:00+00:00
+DRREDDY.NS,Dr. Reddy's Laboratories Limited,Healthcare,1038490206208,1996-01-01 03:45:00+00:00
+RELIANCE.NS,Reliance Industries Limited,Energy,21110080929792,1996-01-01 03:45:00+00:00
+JSWSTEEL.NS,JSW Steel Limited,Basic Materials,2825782820864,2003-05-08 03:45:00+00:00
+CIPLA.NS,Cipla Limited,Healthcare,1231043297280,1996-01-01 03:45:00+00:00
+JIOFIN.NS,Jio Financial Services Limited,Financial Services,1945967263744,2023-08-21 03:45:00+00:00
+SHRIRAMFIN.NS,Shriram Finance Limited,Financial Services,1631822413824,2002-07-01 03:45:00+00:00
+BAJAJ-AUTO.NS,Bajaj Auto Limited,Consumer Cyclical,2516909817856,2002-07-01 03:45:00+00:00
+NTPC.NS,NTPC Limited,Utilities,3174688620544,2004-11-05 03:45:00+00:00
+ETERNAL.NS,Eternal Limited,Consumer Cyclical,2755136847872,2021-07-23 03:45:00+00:00
+ONGC.NS,Oil and Natural Gas Corporation Limited,Energy,3068341780480,1996-01-01 03:45:00+00:00
+TATASTEEL.NS,Tata Steel Limited,Basic Materials,2097764761600,1996-01-01 03:45:00+00:00
+ASIANPAINT.NS,Asian Paints Limited,Basic Materials,2760689844224,2002-07-01 03:45:00+00:00
+BAJAJFINSV.NS,Bajaj Finserv Ltd.,Financial Services,3356466348032,2002-08-12 03:45:00+00:00
+SBILIFE.NS,SBI Life Insurance Company Limited,Financial Services,2012830498816,2017-10-03 03:45:00+00:00
+APOLLOHOSP.NS,Apollo Hospitals Enterprise Limited,Healthcare,1053797711872,2002-07-01 03:45:00+00:00
+MARUTI.NS,Maruti Suzuki India Limited,Consumer Cyclical,5015978639360,2003-07-09 03:45:00+00:00
+TITAN.NS,Titan Company Limited,Consumer Cyclical,3467459952640,1996-01-01 03:45:00+00:00
+ULTRACEMCO.NS,UltraTech Cement Limited,Basic Materials,3423431032832,2002-08-12 03:45:00+00:00
+AXISBANK.NS,Axis Bank Limited,Financial Services,3988746665984,1998-11-27 03:45:00+00:00
+LT.NS,Larsen & Toubro Limited,Industrials,5639881883648,2002-07-01 03:45:00+00:00
+SUNPHARMA.NS,Sun Pharmaceutical Industries Limited,Healthcare,4344235687936,1996-01-01 03:45:00+00:00
+HDFCLIFE.NS,HDFC Life Insurance Company Limited,Financial Services,1679863447552,2017-11-17 03:45:00+00:00
+COALINDIA.NS,Coal India Limited,Energy,2327662559232,2010-11-04 03:45:00+00:00
+BHARTIARTL.NS,Bharti Airtel Limited,Communication Services,12846086750208,2002-07-01 03:45:00+00:00
+ITC.NS,ITC Limited,Consumer Defensive,5049718669312,1996-01-01 03:45:00+00:00
+GRASIM.NS,Grasim Industries Limited,Basic Materials,1853676847104,2002-07-01 03:45:00+00:00
+HINDUNILVR.NS,Hindustan Unilever Limited,Consumer Defensive,5751443554304,1996-01-01 03:45:00+00:00
+ICICIBANK.NS,ICICI Bank Limited,Financial Services,9940127186944,2002-07-01 03:45:00+00:00
+BAJFINANCE.NS,Bajaj Finance Limited,Financial Services,6438258212864,2002-07-01 03:45:00+00:00
+WIPRO.NS,Wipro Limited,Technology,2608073277440,1996-01-01 03:45:00+00:00
+TECHM.NS,Tech Mahindra Limited,Technology,1339559510016,2006-08-28 03:45:00+00:00
+ADANIPORTS.NS,Adani Ports and Special Economic Zone Limited,Industrials,3260962045952,2007-11-27 03:45:00+00:00
+HDFCBANK.NS,HDFC Bank Limited,Financial Services,15568909369344,1996-01-01 03:45:00+00:00
+TCS.NS,Tata Consultancy Services Limited,Technology,11340171182080,2002-08-12 03:45:00+00:00
+POWERGRID.NS,Power Grid Corporation of India Limited,Utilities,2549760393216,2007-10-05 03:45:00+00:00
+M&M.NS,Mahindra & Mahindra Limited,Consumer Cyclical,4419170598912,1996-01-01 03:45:00+00:00
+INDIGO.NS,InterGlobe Aviation Limited,Industrials,2288420126720,2015-11-10 03:45:00+00:00
+TRENT.NS,Trent Limited,Consumer Cyclical,1514590568448,2002-07-01 03:45:00+00:00
+TMPV.NS,Tata Motors Passenger Vehicles Limited,Consumer Cyclical,2642178211840,2025-10-15 03:45:00+00:00
+KOTAKBANK.NS,Kotak Mahindra Bank Limited,Financial Services,4203826118656,2001-07-02 03:45:00+00:00
+EICHERMOT.NS,Eicher Motors Limited,Consumer Cyclical,1922974744576,1996-01-01 03:45:00+00:00
+NESTLEIND.NS,Nestlé India Limited,Consumer Defensive,2435846504448,2002-08-12 03:45:00+00:00
+HCLTECH.NS,HCL Technologies Limited,Technology,4405330968576,2002-08-12 03:45:00+00:00
+INFY.NS,Infosys Limited,Technology,6478224162816,1996-01-01 03:45:00+00:00
+TATACONSUM.NS,Tata Consumer Products Limited,Consumer Defensive,1161775022080,1996-01-01 03:45:00+00:00
+ADANIENT.NS,Adani Enterprises Limited,Energy,2713055133696,2002-07-01 03:45:00+00:00

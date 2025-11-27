@@ -1,0 +1,752 @@
+symbol,name,sector,market_cap,date_of_listing
+CRAFTSMAN.NS,Craftsman Automation Limited,Consumer Cyclical,168122220544,2021-03-25 03:45:00+00:00
+KTKBANK.NS,The Karnataka Bank Limited,Financial Services,81340653568,2000-05-10 03:45:00+00:00
+ORIENTCEM.NS,Orient Cement Limited,Basic Materials,34732990464,2013-07-12 03:45:00+00:00
+HSCL.NS,Himadri Speciality Chemical Limited,Basic Materials,223880282112,2007-03-02 03:45:00+00:00
+DBL.NS,Dilip Buildcon Limited,Industrials,76462784512,2016-08-11 03:45:00+00:00
+BLUEJET.NS,Blue Jet Healthcare Limited,Healthcare,99540025344,2023-11-01 03:45:00+00:00
+ANURAS.NS,Anupam Rasayan India Ltd,Basic Materials,138815586304,2021-03-24 03:45:00+00:00
+NEOGEN.NS,Neogen Chemicals Limited,Basic Materials,30925746176,2019-05-08 03:45:00+00:00
+SHARDACROP.NS,Sharda Cropchem Limited,Basic Materials,73200394240,2014-09-23 03:45:00+00:00
+HEG.NS,HEG Limited,Industrials,104114356224,2002-07-01 03:45:00+00:00
+ROUTE.NS,Route Mobile Limited,Communication Services,41981591552,2020-09-21 03:45:00+00:00
+JISLJALEQS.NS,Jain Irrigation Systems Limited,Industrials,33726355456,2002-01-18 03:45:00+00:00
+NUVOCO.NS,Nuvoco Vistas Corporation Limited,Basic Materials,127296380928,2021-08-23 03:45:00+00:00
+ANANTRAJ.NS,Anant Raj Limited,Real Estate,211679608832,2006-09-27 03:45:00+00:00
+LUMAXTECH.NS,Lumax Auto Technologies Limited,Consumer Cyclical,101838495744,2007-01-16 03:45:00+00:00
+PHOENIXLTD.NS,The Phoenix Mills Limited,Real Estate,622925840384,2007-04-23 03:45:00+00:00
+GMDCLTD.NS,Gujarat Mineral Development Corporation Limited,Energy,177721606144,2002-07-01 03:45:00+00:00
+RBA.NS,Restaurant Brands Asia Limited,Consumer Cyclical,36319633408,2020-12-14 03:45:00+00:00
+RAIN.NS,Rain Industries Limited,Basic Materials,36426235904,2002-08-12 03:45:00+00:00
+EMBDL.NS,Embassy Developments Limited,Real Estate,109062021120,2024-06-27 03:45:00+00:00
+RAYMONDLSL.NS,Raymond Lifestyle Limited,Consumer Cyclical,68653002752,2024-09-05 03:45:00+00:00
+LATENTVIEW.NS,Latent View Analytics Limited,Industrials,100973010944,2021-11-23 03:45:00+00:00
+RALLIS.NS,Rallis India Limited,Basic Materials,51184214016,2002-07-01 03:45:00+00:00
+ABCAPITAL.NS,Aditya Birla Capital Limited,Financial Services,918947954688,2017-09-01 03:45:00+00:00
+CARTRADE.NS,CarTrade Tech Limited,Consumer Cyclical,145603690496,2021-08-20 03:45:00+00:00
+SYRMA.NS,Syrma SGS Technology Limited,Technology,163774660608,2022-08-26 03:45:00+00:00
+SARDAEN.NS,Sarda Energy & Minerals Limited,Basic Materials,171768266752,2009-12-03 03:45:00+00:00
+HINDCOPPER.NS,Hindustan Copper Limited,Basic Materials,316361900032,2010-01-08 03:45:00+00:00
+TARC.NS,TARC Limited,Real Estate,40457707520,2020-12-18 03:45:00+00:00
+TIPSMUSIC.NS,Tips Music Limited,Communication Services,69546303488,2002-07-01 03:45:00+00:00
+DCAL.NS,Dishman Carbogen Amcis Limited,Healthcare,37861945344,2004-04-22 03:45:00+00:00
+LUPIN.NS,Lupin Limited,Healthcare,945079713792,2001-09-10 03:45:00+00:00
+SANSERA.NS,Sansera Engineering Limited,Consumer Cyclical,108089778176,2021-09-24 03:45:00+00:00
+IIFL.NS,IIFL Finance Limited,Financial Services,241287954432,2005-05-17 03:45:00+00:00
+FEDERALBNK.NS,The Federal Bank Limited,Financial Services,624300326912,1996-01-01 03:45:00+00:00
+CYIENTDLM.NS,Cyient DLM Limited,Technology,34491768832,2023-07-10 03:45:00+00:00
+ZAGGLE.NS,Zaggle Prepaid Ocean Services Limited,Technology,51663167488,2023-09-22 03:45:00+00:00
+IDBI.NS,IDBI Bank Limited,Financial Services,1088680755200,1996-01-01 03:45:00+00:00
+BALAMINES.NS,Balaji Amines Limited,Basic Materials,37812072448,2007-04-05 03:45:00+00:00
+GVT&D.NS,GE Vernova T&D India Ltd,Industrials,738028486656,2002-08-12 03:45:00+00:00
+YESBANK.NS,Yes Bank Limited,Financial Services,715696701440,2005-07-12 03:45:00+00:00
+NIVABUPA.NS,Niva Bupa Health Insurance Company Limited,Financial Services,138409918464,2024-11-14 03:45:00+00:00
+TEGA.NS,Tega Industries Limited,Industrials,127559098368,2021-12-13 03:45:00+00:00
+KSCL.NS,Kaveri Seed Company Limited,Basic Materials,50008682496,2007-10-04 03:45:00+00:00
+PRESTIGE.NS,Prestige Estates Projects Limited,Real Estate,718802649088,2010-10-27 03:45:00+00:00
+SURYAROSNI.NS,Surya Roshni Limited,Basic Materials,57005084672,2002-07-01 03:45:00+00:00
+ABREL.NS,Aditya Birla Real Estate Limited,Basic Materials,193419788288,1996-01-01 03:45:00+00:00
+IMFA.NS,Indian Metals and Ferro Alloys Limited,Basic Materials,68695273472,2010-07-23 03:45:00+00:00
+FSL.NS,Firstsource Solutions Limited,Technology,241898897408,2007-02-22 03:45:00+00:00
+MANORAMA.NS,Manorama Industries Limited,Consumer Defensive,77211582464,2022-07-01 03:45:00+00:00
+MANINFRA.NS,Man Infraconstruction Limited,Industrials,51741970432,2010-03-11 03:45:00+00:00
+AGI.NS,AGI Greenpac Limited,Consumer Cyclical,50010251264,2002-07-01 03:45:00+00:00
+GRANULES.NS,Granules India Limited,Healthcare,133734727680,2005-06-20 03:45:00+00:00
+THELEELA.NS,Leela Palaces Hotels & Resorts Limited,Consumer Cyclical,137389621248,2025-06-02 03:45:00+00:00
+GLENMARK.NS,Glenmark Pharmaceuticals Limited,Healthcare,547977527296,2002-07-01 03:45:00+00:00
+ASKAUTOLTD.NS,ASK AUTOMOTIVE LIMITED,Consumer Cyclical,97033584640,2023-11-15 03:45:00+00:00
+VEDL.NS,Vedanta Limited,Basic Materials,2030563098624,1996-01-01 03:45:00+00:00
+NEULANDLAB.NS,Neuland Laboratories Limited,Healthcare,213618606080,2008-10-13 03:45:00+00:00
+DATAPATTNS.NS,Data Patterns (India) Limited,Industrials,165981274112,2021-12-24 03:45:00+00:00
+V2RETAIL.NS,V2 Retail Limited,Consumer Cyclical,89507577856,2007-07-04 03:45:00+00:00
+JPPOWER.NS,Jaiprakash Power Ventures Limited,Utilities,128027484160,2005-04-18 03:45:00+00:00
+SHILPAMED.NS,Shilpa Medicare Limited,Healthcare,68414332928,2009-12-03 03:45:00+00:00
+VENTIVE.NS,VENTIVE HOSPITALITY LTD,Consumer Cyclical,171524636672,2024-12-30 03:45:00+00:00
+SAFARI.NS,Safari Industries (India) Limited,Consumer Cyclical,119590158336,2019-09-12 03:45:00+00:00
+CUB.NS,City Union Bank Limited,Financial Services,202793189376,2002-07-01 03:45:00+00:00
+HERITGFOOD.NS,Heritage Foods Limited,Consumer Defensive,44639465472,2002-07-01 03:45:00+00:00
+AJAXENGG.NS,AJAX ENGINEERING LIMITED,Industrials,71509966848,2025-02-17 03:45:00+00:00
+SUNFLAG.NS,Sunflag Iron and Steel Company Limited,Basic Materials,45964972032,2005-09-29 03:45:00+00:00
+KPIL.NS,Kalpataru Projects International Limited,Industrials,206054146048,2023-05-30 03:45:00+00:00
+GATEWAY.NS,Gateway Distriparks Limited,Industrials,29394536448,2022-03-22 03:45:00+00:00
+MUTHOOTFIN.NS,Muthoot Finance Limited,Financial Services,1510200442880,2011-05-06 03:45:00+00:00
+SBFC.NS,SBFC Finance Limited,Financial Services,115756220416,2023-08-16 03:45:00+00:00
+AUROPHARMA.NS,Aurobindo Pharma Limited,Healthcare,717057622016,1996-01-15 03:45:00+00:00
+HINDZINC.NS,Hindustan Zinc Limited,Basic Materials,2008505384960,2002-08-12 03:45:00+00:00
+ARVINDFASN.NS,Arvind Fashions Limited,Consumer Cyclical,68728463360,2019-03-08 03:45:00+00:00
+HIKAL.NS,Hikal Limited,Healthcare,27304210432,2002-07-01 03:45:00+00:00
+BEL.NS,Bharat Electronics Limited,Industrials,3020035194880,2002-07-01 03:45:00+00:00
+EIEL.NS,ENVIRO INFRA ENGINEERS L,Industrials,38098788352,2024-11-29 03:45:00+00:00
+GAEL.NS,Gujarat Ambuja Exports Limited,Consumer Defensive,49100693504,2002-07-01 03:45:00+00:00
+JMFINANCIL.NS,JM Financial Limited,Financial Services,140055379968,2006-10-10 03:45:00+00:00
+MAHSCOOTER.NS,Maharashtra Scooters Ltd.,Financial Services,166152896512,2002-07-01 03:45:00+00:00
+KIRLOSENG.NS,Kirloskar Oil Engines Limited,Industrials,165895798784,2002-08-12 03:45:00+00:00
+BHEL.NS,Bharat Heavy Electricals Limited,Industrials,1014499180544,1996-01-01 03:45:00+00:00
+GMRAIRPORT.NS,GMR Airports Limited,Industrials,1127875346432,2006-08-21 03:45:00+00:00
+MAHABANK.NS,Bank of Maharashtra,Financial Services,455801536512,2004-04-12 03:45:00+00:00
+SHAKTIPUMP.NS,Shakti Pumps (India) Limited,Industrials,83916783616,2011-10-25 03:45:00+00:00
+IDFCFIRSTB.NS,IDFC First Bank Limited,Financial Services,693204680704,2015-11-06 03:45:00+00:00
+IDEA.NS,Vodafone Idea Limited,Communication Services,1107543064576,2007-03-09 03:45:00+00:00
+ABLBL.NS,ADITYA BIRLA LIFES BRAN L,Consumer Cyclical,161400979456,2025-06-23 03:45:00+00:00
+LLOYDSENGG.NS,Lloyds Engineering Works Limited,Industrials,79682412544,2023-10-05 03:45:00+00:00
+QUESS.NS,Quess Corp Limited,Industrials,32004880384,2016-07-12 03:45:00+00:00
+ICIL.NS,Indo Count Industries Limited,Consumer Cyclical,61515677696,2005-09-12 03:45:00+00:00
+SUPRIYA.NS,Supriya Lifescience Limited,Healthcare,61605560320,2021-12-28 03:45:00+00:00
+JWL.NS,Jupiter Wagons Limited,Industrials,124887334912,2010-10-18 03:45:00+00:00
+CHOLAFIN.NS,Cholamandalam Investment and Finance Company Limited,Financial Services,1458869501952,2002-07-01 03:45:00+00:00
+JKLAKSHMI.NS,JK Lakshmi Cement Limited,Basic Materials,94331133952,2006-06-19 03:45:00+00:00
+GULFOILLUB.NS,Gulf Oil Lubricants India Limited,Basic Materials,57939509248,2014-07-31 03:45:00+00:00
+ABDL.NS,ALLIED BLEND N DISTILS L,Consumer Defensive,184133189632,2024-07-02 03:45:00+00:00
+GMMPFAUDLR.NS,GMM Pfaudler Limited,Industrials,51531141120,2018-03-05 03:45:00+00:00
+SOUTHBANK.NS,The South Indian Bank Limited,Financial Services,104420220928,1998-12-14 03:45:00+00:00
+STYRENIX.NS,Styrenix Performance Materials Limited,Basic Materials,36279140352,2002-08-12 03:45:00+00:00
+GRSE.NS,Garden Reach Shipbuilders & Engineers Limited,Industrials,318327226368,2018-10-24 03:45:00+00:00
+DRREDDY.NS,Dr. Reddy's Laboratories Limited,Healthcare,1038656667648,1996-01-01 03:45:00+00:00
+ACMESOLAR.NS,ACME SOLAR HOLDINGS LTD,Utilities,141161119744,2024-11-13 03:45:00+00:00
+CAMPUS.NS,Campus Activewear Limited,Consumer Cyclical,82752897024,2022-05-09 03:45:00+00:00
+CIEINDIA.NS,CIE Automotive India Limited,Consumer Cyclical,156145549312,2007-08-30 03:45:00+00:00
+ASHOKLEY.NS,Ashok Leyland Limited,Industrials,931005923328,2002-07-01 03:45:00+00:00
+JSWSTEEL.NS,JSW Steel Limited,Basic Materials,2822851788800,2003-05-08 03:45:00+00:00
+SANDUMA.NS,The Sandur Manganese & Iron Ores Limited,Basic Materials,103773650944,2023-09-07 03:45:00+00:00
+SBIN.NS,State Bank of India,Financial Services,8976775249920,1996-01-01 03:45:00+00:00
+HINDALCO.NS,Hindalco Industries Limited,Basic Materials,1812576731136,1996-01-01 03:45:00+00:00
+JUBLPHARMA.NS,Jubilant Pharmova Limited,Healthcare,174116896768,2002-07-01 03:45:00+00:00
+BSE.NS,BSE Limited,Financial Services,1182241783808,2017-02-03 03:45:00+00:00
+ETHOSLTD.NS,Ethos Limited,Consumer Cyclical,85485477888,2022-05-30 03:45:00+00:00
+SOBHA.NS,Sobha Limited,Real Estate,165114183680,2006-12-20 03:45:00+00:00
+NATIONALUM.NS,National Aluminium Company Limited,Basic Materials,480550715392,1999-04-28 03:45:00+00:00
+HCC.NS,Hindustan Construction Company Limited,Industrials,44065775616,1996-01-01 03:45:00+00:00
+AKUMS.NS,AKUMS DRUGS AND PHARMA L,Healthcare,64773869568,2024-08-06 03:45:00+00:00
+EIDPARRY.NS,E.I.D.- Parry (India) Limited,Basic Materials,183208902656,2002-07-01 03:45:00+00:00
+SUMICHEM.NS,Sumitomo Chemical India Limited,Basic Materials,227785162752,2020-01-27 03:45:00+00:00
+ATHERENERG.NS,Ather Energy Limited,Consumer Cyclical,270436843520,2025-05-06 03:45:00+00:00
+GODREJPROP.NS,Godrej Properties Limited,Real Estate,632051335168,2010-01-05 03:45:00+00:00
+MAXHEALTH.NS,Max Healthcare Institute Limited,Healthcare,1129503653888,2020-08-21 03:45:00+00:00
+EPIGRAL.NS,Epigral Limited,Basic Materials,64163618816,2023-08-31 03:45:00+00:00
+KARURVYSYA.NS,The Karur Vysya Bank Limited,Financial Services,242911346688,1996-01-01 03:45:00+00:00
+NAVA.NS,Nava Limited,Industrials,148686618624,2002-07-01 03:45:00+00:00
+ELECTCAST.NS,Electrosteel Castings Limited,Industrials,46147477504,2002-07-01 03:45:00+00:00
+AEGISLOG.NS,AEGIS LOGISTICS LIMITED,Energy,267302961152,2024-05-30 03:45:00+00:00
+UPL.NS,UPL Limited,Basic Materials,641093992448,2002-07-01 03:45:00+00:00
+SFL.NS,Sheela Foam Limited,Consumer Cyclical,66253537280,2016-12-12 03:45:00+00:00
+SAMHI.NS,SAMHI Hotels Limited,Consumer Cyclical,42425126912,2023-09-22 03:45:00+00:00
+LTF.NS,L&T Finance Limited,Financial Services,769302069248,2011-08-12 03:45:00+00:00
+RPOWER.NS,Reliance Power Limited,Utilities,166047268864,2008-02-11 03:45:00+00:00
+PARADEEP.NS,Paradeep Phosphates Limited,Basic Materials,127339200512,2022-05-27 03:45:00+00:00
+JUBLFOOD.NS,Jubilant FoodWorks Limited,Consumer Cyclical,399133605888,2010-02-08 03:45:00+00:00
+LEMONTREE.NS,Lemon Tree Hotels Limited,Consumer Cyclical,122182090752,2018-04-09 03:45:00+00:00
+CENTRALBK.NS,Central Bank of India,Financial Services,350651285504,2007-08-21 03:45:00+00:00
+SUDARSCHEM.NS,Sudarshan Chemical Industries Limited,Basic Materials,79612633088,2005-03-03 03:45:00+00:00
+RELIANCE.NS,Reliance Industries Limited,Energy,21127673937920,1996-01-01 03:45:00+00:00
+INDIANB.NS,Indian Bank,Financial Services,1168507404288,2007-03-01 03:45:00+00:00
+MTARTECH.NS,MTAR Technologies Limited,Industrials,76898983936,2021-03-15 03:45:00+00:00
+CIPLA.NS,Cipla Limited,Healthcare,1230720204800,1996-01-01 03:45:00+00:00
+MMTC.NS,MMTC Limited,Industrials,91695005696,2010-01-08 03:45:00+00:00
+ADANIPOWER.NS,Adani Power Limited,Utilities,2872455200768,2009-08-20 03:45:00+00:00
+WELCORP.NS,Welspun Corp Limited,Basic Materials,227641901056,2000-06-23 03:45:00+00:00
+AUBANK.NS,AU Small Finance Bank Limited,Financial Services,706472640512,2017-07-11 03:45:00+00:00
+MOTHERSON.NS,Samvardhana Motherson International Limited,Consumer Cyclical,1222098944000,2002-07-01 03:45:00+00:00
+CENTURYPLY.NS,Century Plyboards (India) Limited,Basic Materials,180203896832,2006-03-23 03:45:00+00:00
+CEATLTD.NS,CEAT Limited,Consumer Cyclical,156547956736,2008-02-01 03:45:00+00:00
+CHENNPETRO.NS,Chennai Petroleum Corporation Limited,Energy,137408643072,2002-07-01 03:45:00+00:00
+RADICO.NS,Radico Khaitan Limited,Consumer Defensive,424419557376,2003-06-18 03:45:00+00:00
+THYROCARE.NS,Thyrocare Technologies Limited,Healthcare,78180220928,2016-05-09 03:45:00+00:00
+HEROMOTOCO.NS,Hero MotoCorp Limited,Consumer Cyclical,1230902132736,2002-07-01 03:45:00+00:00
+SAGILITY.NS,Sagility Limited,Healthcare,233691922432,2024-11-12 03:45:00+00:00
+OBEROIRLTY.NS,Oberoi Realty Limited,Real Estate,604013199360,2010-10-20 03:45:00+00:00
+GICRE.NS,General Insurance Corporation of India,Financial Services,676408918016,2017-10-25 03:45:00+00:00
+AKZOINDIA.NS,Akzo Nobel India Limited,Basic Materials,155110309888,2002-07-01 03:45:00+00:00
+MANAPPURAM.NS,Manappuram Finance Limited,Financial Services,240810688512,2010-06-30 03:45:00+00:00
+IIFLCAPS.NS,IIFL Capital Services Limited,Financial Services,93988044800,2024-11-25 03:45:00+00:00
+NHPC.NS,NHPC Limited,Utilities,773568135168,2009-09-01 03:45:00+00:00
+ASHOKA.NS,Ashoka Buildcon Limited,Industrials,51066101760,2010-10-14 03:45:00+00:00
+FDC.NS,FDC Limited,Healthcare,67419656192,2002-07-01 03:45:00+00:00
+POLYCAB.NS,Polycab India Limited,Industrials,1123375775744,2019-04-16 03:45:00+00:00
+SHAILY.NS,Shaily Engineering Plastics Limited,Basic Materials,118412484608,2022-04-04 03:45:00+00:00
+SUBROS.NS,Subros Limited,Consumer Cyclical,55543488512,2005-07-13 03:45:00+00:00
+TVSSCS.NS,TVS Supply Chain Solutions Limited,Industrials,47351250944,2023-08-23 03:45:00+00:00
+MIDHANI.NS,Mishra Dhatu Nigam Limited,Basic Materials,61616123904,2018-04-04 03:45:00+00:00
+BRIGADE.NS,Brigade Enterprises Limited,Real Estate,220217081856,2007-12-31 03:45:00+00:00
+PNCINFRA.NS,PNC Infratech Limited,Industrials,64647868416,2015-05-26 03:45:00+00:00
+BANKBARODA.NS,Bank of Baroda Limited,Financial Services,1486335901696,2002-07-01 03:45:00+00:00
+EDELWEISS.NS,Edelweiss Financial Services Limited,Financial Services,106387849216,2007-12-12 03:45:00+00:00
+M&MFIN.NS,Mahindra & Mahindra Financial Services Limited,Financial Services,499208585216,2006-03-17 03:45:00+00:00
+HEMIPROP.NS,Hemisphere Properties India Limited,Real Estate,40024768512,2020-10-22 03:45:00+00:00
+APARINDS.NS,APAR Industries Limited,Industrials,370208833536,2004-07-12 03:45:00+00:00
+CHAMBLFERT.NS,Chambal Fertilisers and Chemicals Limited,Basic Materials,177368776704,2002-07-01 03:45:00+00:00
+GODREJCP.NS,Godrej Consumer Products Limited,Consumer Defensive,1168033710080,2002-07-01 03:45:00+00:00
+SHRIRAMFIN.NS,Shriram Finance Limited,Financial Services,1631163908096,2002-07-01 03:45:00+00:00
+WEBELSOLAR.NS,Websol Energy System Limited,Technology,44949757952,2007-05-15 03:45:00+00:00
+EUREKAFORB.NS,Eureka Forbes Limited,Consumer Cyclical,118223495168,2024-09-11 03:45:00+00:00
+NBCC.NS,NBCC (India) Limited,Industrials,317250011136,2012-04-12 03:45:00+00:00
+REFEX.NS,Refex Industries Limited,Energy,44525658112,2009-12-03 03:45:00+00:00
+AIAENG.NS,AIA Engineering Limited,Industrials,357696962560,2005-12-14 03:45:00+00:00
+PFIZER.NS,Pfizer Limited,Healthcare,231094665216,2002-07-01 03:45:00+00:00
+POONAWALLA.NS,Poonawalla Fincorp Limited,Financial Services,377463734272,2004-04-27 03:45:00+00:00
+HCG.NS,HealthCare Global Enterprises Limited,Healthcare,101421367296,2016-03-31 03:45:00+00:00
+JIOFIN.NS,Jio Financial Services Limited,Financial Services,1945649676288,2023-08-21 03:45:00+00:00
+BAJAJ-AUTO.NS,Bajaj Auto Limited,Consumer Cyclical,2516630634496,2002-07-01 03:45:00+00:00
+MINDACORP.NS,Minda Corporation Limited,Consumer Cyclical,138215702528,2012-03-19 03:45:00+00:00
+ANUP.NS,The Anup Engineering Limited,Industrials,45744451584,2019-03-01 03:45:00+00:00
+ANANDRATHI.NS,Anand Rathi Wealth Limited,Financial Services,238626209792,2021-12-14 03:45:00+00:00
+STARCEMENT.NS,Star Cement Limited,Basic Materials,91798691840,2017-06-19 03:45:00+00:00
+EMCURE.NS,EMCURE PHARMACEUTICALS L,Healthcare,267286429696,2024-07-10 03:45:00+00:00
+GRAPHITE.NS,Graphite India Limited,Industrials,108755828736,2002-07-01 03:45:00+00:00
+DEEPAKFERT.NS,Deepak Fertilisers And Petrochemicals Corporation Limited,Basic Materials,173735182336,1996-01-01 03:45:00+00:00
+IOB.NS,Indian Overseas Bank,Financial Services,754665717760,2002-07-01 03:45:00+00:00
+NSLNISP.NS,NMDC Steel Limited,Basic Materials,125429923840,2023-02-20 03:45:00+00:00
+RHIM.NS,RHI Magnesita India Limited,Industrials,96699957248,2012-03-12 03:45:00+00:00
+EXIDEIND.NS,Exide Industries Limited,Consumer Cyclical,312669995008,2002-07-01 03:45:00+00:00
+RAILTEL.NS,RailTel Corporation of India Limited,Communication Services,111485067264,2021-02-26 03:45:00+00:00
+TANLA.NS,Tanla Platforms Limited,Technology,75487936512,2007-01-05 03:45:00+00:00
+TATASTEEL.NS,Tata Steel Limited,Basic Materials,2096767041536,1996-01-01 03:45:00+00:00
+PARAS.NS,Paras Defence and Space Technologies Limited,Industrials,58047049728,2021-10-01 03:45:00+00:00
+UNIONBANK.NS,Union Bank of India,Financial Services,1172521877504,2002-09-24 03:45:00+00:00
+TARIL.NS,TRANS & RECTI. LTD,Industrials,85232091136,2013-06-06 03:45:00+00:00
+CUMMINSIND.NS,Cummins India Limited,Industrials,1234727469056,2002-07-01 03:45:00+00:00
+BEML.NS,BEML Limited,Industrials,154417807360,2002-07-01 03:45:00+00:00
+HUDCO.NS,Housing and Urban Development Corporation Limited,Financial Services,479054692352,2017-05-19 03:45:00+00:00
+IRCON.NS,Ircon International Limited,Industrials,153021906944,2018-09-28 03:45:00+00:00
+SUNTECK.NS,Sunteck Realty Limited,Real Estate,61510766592,2009-11-13 03:45:00+00:00
+EIHOTEL.NS,EIH Limited,Consumer Cyclical,234136338432,1996-01-01 03:45:00+00:00
+SHARDAMOTR.NS,Sharda Motor Industries Limited,Consumer Cyclical,53136568320,2015-09-03 03:45:00+00:00
+DLF.NS,DLF Limited,Real Estate,1795599630336,2007-07-05 03:45:00+00:00
+TORNTPHARM.NS,Torrent Pharmaceuticals Limited,Healthcare,1259152343040,2002-07-01 03:45:00+00:00
+SYNGENE.NS,Syngene International Limited,Healthcare,258391293952,2015-08-11 03:45:00+00:00
+CELLO.NS,Cello World Limited,Consumer Cyclical,133480824832,2023-11-06 03:45:00+00:00
+FIEMIND.NS,Fiem Industries Limited,Consumer Cyclical,58561245184,2006-10-19 03:45:00+00:00
+ZYDUSLIFE.NS,Zydus Lifesciences Limited,Healthcare,943545647104,2000-04-27 03:45:00+00:00
+SAREGAMA.NS,Saregama India Limited,Communication Services,76596084736,2002-07-01 03:45:00+00:00
+NATCOPHARM.NS,NATCO Pharma Limited,Healthcare,158010736640,1996-01-01 03:45:00+00:00
+PETRONET.NS,Petronet LNG Limited,Energy,411745157120,2004-03-26 03:45:00+00:00
+FACT.NS,The Fertilisers and Chemicals Travancore Limited,Basic Materials,572626370560,2002-07-01 03:45:00+00:00
+INDIACEM.NS,The India Cements Limited,Basic Materials,186356924416,1996-01-02 03:45:00+00:00
+ADANIENSOL.NS,Adani Energy Solutions Limited,Utilities,1182422532096,2023-08-16 03:45:00+00:00
+FORTIS.NS,Fortis Healthcare Limited,Healthcare,697166004224,2007-05-09 03:45:00+00:00
+METROPOLIS.NS,Metropolis Healthcare Limited,Healthcare,100228620288,2019-04-15 03:45:00+00:00
+SBICARD.NS,SBI Cards and Payment Services Limited,Financial Services,838646366208,2020-03-16 03:45:00+00:00
+PNB.NS,Punjab National Bank,Financial Services,1432909250560,2002-07-01 03:45:00+00:00
+KFINTECH.NS,KFin Technologies Limited,Technology,183693279232,2022-12-29 03:45:00+00:00
+JBCHEPHARM.NS,J. B. Chemicals & Pharmaceuticals Limited,Healthcare,277111111680,2002-07-01 03:45:00+00:00
+SHRIPISTON.NS,Shriram Pistons & Rings Limited,Consumer Cyclical,114648473600,2016-06-09 03:45:00+00:00
+ONGC.NS,Oil and Natural Gas Corporation Limited,Energy,3063308353536,1996-01-01 03:45:00+00:00
+ETERNAL.NS,Eternal Limited,Consumer Cyclical,2758321373184,2021-07-23 03:45:00+00:00
+ANGELONE.NS,Angel One Limited,Financial Services,250629390336,2020-10-05 03:45:00+00:00
+BANKINDIA.NS,Bank of India Limited,Financial Services,668741337088,2002-07-01 03:45:00+00:00
+MOIL.NS,MOIL Limited,Basic Materials,69836128256,2010-12-15 03:45:00+00:00
+TTML.NS,Tata Teleservices (Maharashtra) Limited,Communication Services,103102889984,2000-10-26 03:45:00+00:00
+AADHARHFC.NS,AADHAR HOUSING FINANCE L,Financial Services,209422581760,2024-05-15 03:45:00+00:00
+PIIND.NS,PI Industries Limited,Basic Materials,520599961600,2011-06-15 03:45:00+00:00
+PATELENG.NS,Patel Engineering Limited,Industrials,30499635200,2005-02-24 03:45:00+00:00
+BAJAJFINSV.NS,Bajaj Finserv Ltd.,Financial Services,3355188920320,2002-08-12 03:45:00+00:00
+GRWRHITECH.NS,Garware Hi-Tech Films Limited,Basic Materials,90188152832,2022-02-03 03:45:00+00:00
+NTPC.NS,NTPC Limited,Utilities,3171779608576,2004-11-05 03:45:00+00:00
+ZENTEC.NS,Zen Technologies Limited,Industrials,126690148352,2015-03-30 03:45:00+00:00
+J&KBANK.NS,Jammu and Kashmir Bank Limited,Financial Services,118740508672,2002-08-12 03:45:00+00:00
+PTC.NS,PTC India Limited,Utilities,47395930112,2004-04-07 03:45:00+00:00
+PFC.NS,Power Finance Corporation Limited,Financial Services,1205820981248,2007-02-23 03:45:00+00:00
+IEX.NS,Indian Energy Exchange Limited,Financial Services,125337985024,2017-10-23 03:45:00+00:00
+AMBUJACEM.NS,Ambuja Cements Limited,Basic Materials,1354920624128,2002-07-01 03:45:00+00:00
+MANKIND.NS,Mankind Pharma Limited,Healthcare,928192200704,2023-05-09 03:45:00+00:00
+UCOBANK.NS,UCO Bank,Financial Services,388728356864,2003-10-09 03:45:00+00:00
+EPL.NS,EPL Limited,Consumer Cyclical,65703051264,2002-07-01 03:45:00+00:00
+GODREJAGRO.NS,Godrej Agrovet Limited,Consumer Defensive,116062838784,2017-10-16 03:45:00+00:00
+INDHOTEL.NS,The Indian Hotels Company Limited,Consumer Cyclical,1049072828416,2002-07-01 03:45:00+00:00
+GAIL.NS,GAIL (India) Limited,Utilities,1206789996544,1997-04-02 03:45:00+00:00
+ICICIPRULI.NS,ICICI Prudential Life Insurance Company Limited,Financial Services,904305115136,2016-09-29 03:45:00+00:00
+CEIGALL.NS,CEIGALL INDIA LIMITED,Industrials,41165328384,2024-08-08 03:45:00+00:00
+CANBK.NS,Canara Bank,Financial Services,1371482488832,2002-12-23 03:45:00+00:00
+RBLBANK.NS,RBL Bank Limited,Financial Services,192556040192,2016-08-31 03:45:00+00:00
+GSFC.NS,Gujarat State Fertilizers & Chemicals Limited,Basic Materials,73696559104,1996-01-01 03:45:00+00:00
+JKPAPER.NS,JK Paper Limited,Basic Materials,61973217280,2005-06-16 03:45:00+00:00
+BAJAJHLDNG.NS,Bajaj Holdings & Investment Limited,Financial Services,1257598484480,2002-08-12 03:45:00+00:00
+USHAMART.NS,Usha Martin Limited,Basic Materials,128474963968,2002-01-01 03:45:00+00:00
+OPTIEMUS.NS,Optiemus Infracom Limited,Technology,50018488320,2017-08-08 03:45:00+00:00
+GREAVESCOT.NS,Greaves Cotton Limited,Industrials,47265124352,2002-08-12 03:45:00+00:00
+ASIANPAINT.NS,Asian Paints Limited,Basic Materials,2758005751808,2002-07-01 03:45:00+00:00
+NMDC.NS,NMDC Limited,Basic Materials,652958498816,2008-03-03 03:45:00+00:00
+ULTRACEMCO.NS,UltraTech Cement Limited,Basic Materials,3422548656128,2002-08-12 03:45:00+00:00
+NCC.NS,NCC Limited,Industrials,109622018048,2002-08-12 03:45:00+00:00
+RELIGARE.NS,Religare Enterprises Limited,Financial Services,81762033664,2007-11-21 03:45:00+00:00
+IXIGO.NS,LE TRAVENUES TECHNOLOGY L,Consumer Cyclical,120334278656,2024-06-18 03:45:00+00:00
+AJANTPHARM.NS,Ajanta Pharma Limited,Healthcare,317748543488,2002-07-01 03:45:00+00:00
+MSTCLTD.NS,MSTC Limited,Industrials,34985279488,2019-03-29 03:45:00+00:00
+LT.NS,Larsen & Toubro Limited,Industrials,5634241593344,2002-07-01 03:45:00+00:00
+SBILIFE.NS,SBI Life Insurance Company Limited,Financial Services,2009321046016,2017-10-03 03:45:00+00:00
+FLUOROCHEM.NS,Gujarat Fluorochemicals Limited,Basic Materials,380081012736,2019-10-16 03:45:00+00:00
+AZAD.NS,AZAD ENGINEERING LIMITED,Industrials,109595222016,2023-12-28 03:45:00+00:00
+INDIAMART.NS,IndiaMART InterMESH Limited,Communication Services,140514066432,2019-07-04 03:45:00+00:00
+MCX.NS,Multi Commodity Exchange of India Limited,Financial Services,527582232576,2012-03-09 03:45:00+00:00
+LICHSGFIN.NS,LIC Housing Finance Limited,Financial Services,302452113408,2002-07-01 03:45:00+00:00
+BHARATFORG.NS,Bharat Forge Limited,Consumer Cyclical,687110488064,1996-01-01 03:45:00+00:00
+CREDITACC.NS,CreditAccess Grameen Limited,Financial Services,218255196160,2018-08-23 03:45:00+00:00
+POWERINDIA.NS,Hitachi Energy India Limited,Industrials,975555330048,2020-03-30 03:45:00+00:00
+PGEL.NS,PG Electroplast Limited,Technology,167081246720,2011-09-26 03:45:00+00:00
+OIL.NS,Oil India Limited,Energy,678295437312,2009-09-30 03:45:00+00:00
+LICI.NS,Life Insurance Corporation of India,Financial Services,5704198914048,2022-05-17 03:45:00+00:00
+PNBHOUSING.NS,PNB Housing Finance Limited,Financial Services,237714063360,2016-11-07 03:45:00+00:00
+VARROC.NS,Varroc Engineering Limited,Consumer Cyclical,100457054208,2018-07-09 03:45:00+00:00
+RTNINDIA.NS,RattanIndia Enterprises Limited,Consumer Cyclical,60897140736,2012-07-30 03:45:00+00:00
+HYUNDAI.NS,HYUNDAI MOTOR INDIA LTD,Consumer Cyclical,1874776162304,2024-10-22 03:45:00+00:00
+MPHASIS.NS,Mphasis Limited,Technology,531698384896,2002-07-01 03:45:00+00:00
+AARTIDRUGS.NS,Aarti Drugs Limited,Healthcare,39541477376,2003-09-19 03:45:00+00:00
+MARKSANS.NS,Marksans Pharma Limited,Healthcare,86545211392,2002-07-19 03:45:00+00:00
+VAIBHAVGBL.NS,Vaibhav Global Limited,Consumer Cyclical,39957958656,2004-04-06 03:45:00+00:00
+INDGN.NS,INDEGENE LIMITED,Healthcare,125352886272,2024-05-13 03:45:00+00:00
+TVSMOTOR.NS,TVS Motor Company Limited,Consumer Cyclical,1667060858880,2000-08-02 03:45:00+00:00
+AMBER.NS,Amber Enterprises India Limited,Consumer Cyclical,250266648576,2018-01-30 03:45:00+00:00
+COCHINSHIP.NS,Cochin Shipyard Limited,Industrials,442107265024,2017-08-11 03:45:00+00:00
+DIVISLAB.NS,Divi's Laboratories Limited,Healthcare,1725014867968,2003-03-12 03:45:00+00:00
+JUBLINGREA.NS,Jubilant Ingrevia Limited,Basic Materials,112710033408,2021-03-19 03:45:00+00:00
+WHIRLPOOL.NS,Whirlpool of India Limited,Consumer Cyclical,135992647680,2002-08-12 03:45:00+00:00
+TITAN.NS,Titan Company Limited,Consumer Cyclical,3464355119104,1996-01-01 03:45:00+00:00
+IPCALAB.NS,Ipca Laboratories Limited,Healthcare,355275538432,1996-01-01 03:45:00+00:00
+BALKRISIND.NS,Balkrishna Industries Limited,Consumer Cyclical,443778957312,2006-01-27 03:45:00+00:00
+IGIL.NS,International Gemmological Institute (India) Limited,Basic Materials,141791608832,2024-12-20 03:45:00+00:00
+MARUTI.NS,Maruti Suzuki India Limited,Consumer Cyclical,5007489368064,2003-07-09 03:45:00+00:00
+INDUSTOWER.NS,Indus Towers Limited,Communication Services,1075555598336,2012-12-28 03:45:00+00:00
+VBL.NS,Varun Beverages Limited,Consumer Defensive,1580910772224,2016-11-08 03:45:00+00:00
+LODHA.NS,Lodha Developers Limited,Real Estate,1158260064256,2021-04-19 03:45:00+00:00
+JBMA.NS,JBM Auto Limited,Consumer Cyclical,146481807360,2004-12-17 03:45:00+00:00
+RRKABEL.NS,R R Kabel Limited,Industrials,156775563264,2023-09-15 03:45:00+00:00
+KIRLPNU.NS,Kirloskar Pneumatic Company Limited,Industrials,70840295424,2023-04-26 03:45:00+00:00
+ATUL.NS,Atul Ltd,Basic Materials,174501281792,2002-07-01 03:45:00+00:00
+DATAMATICS.NS,Datamatics Global Services Limited,Technology,49886380032,2004-05-07 03:45:00+00:00
+LTFOODS.NS,LT Foods Limited,Consumer Defensive,141523517440,2023-10-30 03:45:00+00:00
+RATNAMANI.NS,Ratnamani Metals & Tubes Limited,Basic Materials,166994182144,2006-05-09 03:45:00+00:00
+JSWINFRA.NS,JSW Infrastructure Limited,Industrials,561977491456,2023-10-03 03:45:00+00:00
+HAL.NS,Hindustan Aeronautics Limited,Industrials,2990962114560,2018-04-02 03:45:00+00:00
+LAURUSLABS.NS,Laurus Labs Limited,Healthcare,540218032128,2016-12-19 03:45:00+00:00
+JKCEMENT.NS,J.K. Cement Limited,Basic Materials,451478388736,2006-03-14 03:45:00+00:00
+KPIGREEN.NS,KPI Green Energy Limited,Utilities,86336610304,2021-07-27 03:45:00+00:00
+SAIL.NS,Steel Authority of India Limited,Basic Materials,566600859648,1996-01-01 03:45:00+00:00
+SUNPHARMA.NS,Sun Pharmaceutical Industries Limited,Healthcare,4348074524672,1996-01-01 03:45:00+00:00
+TITAGARH.NS,Titagarh Rail Systems Limited,Industrials,112957620224,2008-04-21 03:45:00+00:00
+PTCIL.NS,PTC Industries Limited,Industrials,270810415104,2023-06-09 03:45:00+00:00
+AWFIS.NS,AWFIS SPACE SOLUTIONS LTD,Industrials,39043936256,2024-05-30 03:45:00+00:00
+PIDILITIND.NS,Pidilite Industries Limited,Basic Materials,1496344952832,2002-07-01 03:45:00+00:00
+ABB.NS,ABB India Limited,Industrials,1104924114944,2002-07-01 03:45:00+00:00
+APOLLOHOSP.NS,Apollo Hospitals Enterprise Limited,Healthcare,1054085283840,2002-07-01 03:45:00+00:00
+VOLTAS.NS,Voltas Limited,Consumer Cyclical,461087866880,2002-07-01 03:45:00+00:00
+HFCL.NS,HFCL Limited,Technology,103067303936,2002-08-12 03:45:00+00:00
+WELENT.NS,Welspun Enterprises Limited,Industrials,72513003520,2004-11-04 03:45:00+00:00
+ICICIGI.NS,ICICI Lombard General Insurance Company Limited,Financial Services,985137479680,2017-09-27 03:45:00+00:00
+SUPREMEIND.NS,The Supreme Industries Limited,Industrials,435002572800,2002-07-01 03:45:00+00:00
+DELHIVERY.NS,Delhivery Limited,Industrials,317992075264,2022-05-24 03:45:00+00:00
+HDFCLIFE.NS,HDFC Life Insurance Company Limited,Financial Services,1678784462848,2017-11-17 03:45:00+00:00
+UNOMINDA.NS,Uno Minda Limited,Consumer Cyclical,758683992064,2007-02-02 03:45:00+00:00
+WAAREEENER.NS,WAAREE ENERGIES LIMITED,Technology,929080082432,2024-10-28 03:45:00+00:00
+PCBL.NS,PCBL Chemical Limited,Basic Materials,129113128960,2002-07-01 03:45:00+00:00
+DEVYANI.NS,Devyani International Limited,Consumer Cyclical,168533639168,2021-08-16 03:45:00+00:00
+ONESOURCE.NS,ONESOURCE SPECL PHARMA L,Healthcare,183205986304,2025-01-24 03:45:00+00:00
+FINPIPE.NS,Finolex Industries Limited,Industrials,112502218752,2002-07-01 03:45:00+00:00
+PARKHOTELS.NS,PARKHOTELS,Consumer Cyclical,29351759872,2024-02-12 03:45:00+00:00
+COALINDIA.NS,Coal India Limited,Energy,2326429958144,2010-11-04 03:45:00+00:00
+TEAMLEASE.NS,TeamLease Services Limited,Industrials,28210575360,2016-02-12 03:45:00+00:00
+SOLARINDS.NS,Solar Industries India Limited,Basic Materials,1207589797888,2006-04-03 03:45:00+00:00
+OLECTRA.NS,Olectra Greentech Limited,Industrials,104551407616,2002-07-01 03:45:00+00:00
+PATANJALI.NS,Patanjali Foods Limited,Consumer Defensive,619823300608,2002-07-01 03:45:00+00:00
+GPPL.NS,Gujarat Pipavav Port Limited,Industrials,84761518080,2010-09-09 03:45:00+00:00
+GODREJIND.NS,Godrej Industries Limited,Industrials,351150931968,2002-07-01 03:45:00+00:00
+KITEX.NS,Kitex Garments Limited,Consumer Cyclical,41891008512,2012-09-25 03:45:00+00:00
+OLAELEC.NS,OLA ELECTRIC MOBILITY LTD,Consumer Cyclical,174130102272,2024-08-09 03:45:00+00:00
+KAJARIACER.NS,Kajaria Ceramics Limited,Industrials,172683001856,2002-07-01 03:45:00+00:00
+AXISBANK.NS,Axis Bank Limited,Financial Services,3985332502528,1998-11-27 03:45:00+00:00
+CDSL.NS,Central Depository Services (India) Limited,Financial Services,338203803648,2017-06-30 03:45:00+00:00
+JYOTICNC.NS,Jyoti CNC Automation Limited,Industrials,236520030208,2024-01-16 03:45:00+00:00
+HAVELLS.NS,Havells India Limited,Industrials,900672389120,2002-07-01 03:45:00+00:00
+FORCEMOT.NS,Force Motors Limited,Consumer Cyclical,227698982912,2019-08-19 03:45:00+00:00
+ADVENZYMES.NS,Advanced Enzyme Technologies Limited,Basic Materials,35049877504,2016-08-01 03:45:00+00:00
+BHARTIARTL.NS,Bharti Airtel Limited,Communication Services,12920398282752,2002-07-01 03:45:00+00:00
+PPLPHARMA.NS,Piramal Pharma Limited,Healthcare,247454498816,2022-10-19 03:45:00+00:00
+TATAPOWER.NS,Tata Power Company Limited,Utilities,1255452311552,1996-01-01 03:45:00+00:00
+MANYAVAR.NS,Vedant Fashions Limited,Consumer Cyclical,149507702784,2022-02-16 03:45:00+00:00
+AFCONS.NS,AFCONS INFRASTRUCTURE LTD,Industrials,151104323584,2024-11-04 03:45:00+00:00
+DMART.NS,Avenue Supermarts Limited,Consumer Defensive,2605860519936,2017-03-21 03:45:00+00:00
+SIEMENS.NS,Siemens Limited,Industrials,1175272816640,1999-01-04 03:45:00+00:00
+ENDURANCE.NS,Endurance Technologies Limited,Consumer Cyclical,375682334720,2016-10-19 03:45:00+00:00
+TRIVENI.NS,Triveni Engineering & Industries Limited,Consumer Defensive,79120670720,2005-12-13 03:45:00+00:00
+CONCOR.NS,Container Corporation of India Limited,Industrials,391850819584,2002-07-01 03:45:00+00:00
+CARBORUNIV.NS,Carborundum Universal Limited,Industrials,166064537600,2002-07-01 03:45:00+00:00
+BLUEDART.NS,Blue Dart Express Limited,Industrials,136340709376,2002-07-01 03:45:00+00:00
+BAJAJELEC.NS,Bajaj Electricals Limited,Consumer Cyclical,56038395904,2007-11-02 03:45:00+00:00
+LXCHEM.NS,Laxmi Organic Industries Limited,Basic Materials,50450677760,2021-03-25 03:45:00+00:00
+KSL.NS,Kalyani Steels Limited,Basic Materials,33833345024,2008-10-21 03:45:00+00:00
+JINDALSAW.NS,Jindal Saw Limited,Basic Materials,106215497728,2002-07-01 03:45:00+00:00
+TSFINV.NS,TSF Investments Limited,Financial Services,116172193792,2025-10-07 03:45:00+00:00
+ALKEM.NS,Alkem Laboratories Limited,Healthcare,680982478848,2015-12-23 03:45:00+00:00
+BECTORFOOD.NS,Mrs. Bectors Food Specialities Limited,Consumer Defensive,78313299968,2020-12-24 03:45:00+00:00
+ADANIGREEN.NS,Adani Green Energy Limited,Utilities,1696756137984,2018-06-18 03:45:00+00:00
+IRFC.NS,Indian Railway Finance Corporation Limited,Financial Services,1540776919040,2021-01-29 03:45:00+00:00
+BRITANNIA.NS,Britannia Industries Limited,Consumer Defensive,1408022085632,1996-01-02 03:45:00+00:00
+DIACABS.NS,Diamond Power Infrastructure Limited,Industrials,74139557888,2010-09-29 03:45:00+00:00
+SWSOLAR.NS,Sterling and Wilson Renewable Energy Limited,Technology,53328252928,2019-08-20 03:45:00+00:00
+CEMPRO.NS,Cemindia Projects Limited,Industrials,138443620352,2025-09-10 03:45:00+00:00
+HBLENGINE.NS,HBL ENGINEERING LTD,Industrials,243515752448,2024-12-12 03:45:00+00:00
+AVALON.NS,Avalon Technologies Limited,Technology,66620579840,2023-04-18 03:45:00+00:00
+TDPOWERSYS.NS,TD Power Systems Limited,Industrials,124417302528,2011-09-08 03:45:00+00:00
+BANDHANBNK.NS,Bandhan Bank Limited,Financial Services,241461035008,2018-03-27 03:45:00+00:00
+APLAPOLLO.NS,APL Apollo Tubes Limited,Basic Materials,480397885440,2011-12-14 03:45:00+00:00
+KEI.NS,KEI Industries Limited,Industrials,395177230336,2006-03-23 03:45:00+00:00
+ATGL.NS,Adani Total Gas Limited,Utilities,663900389376,2018-11-05 03:30:00+00:00
+FINCABLES.NS,Finolex Cables Limited,Industrials,115515080704,2002-07-01 03:45:00+00:00
+LINDEINDIA.NS,Linde India Limited,Basic Materials,514221244416,2000-05-31 03:45:00+00:00
+JINDALSTEL.NS,Jindal Steel Limited,Basic Materials,1057818476544,1999-09-22 03:45:00+00:00
+MFSL.NS,Max Financial Services Limited,Financial Services,597048557568,1996-01-01 03:45:00+00:00
+RELAXO.NS,Relaxo Footwears Limited,Consumer Cyclical,101896642560,2011-06-17 03:45:00+00:00
+IFBIND.NS,IFB Industries Limited,Consumer Cyclical,68774895616,2002-07-01 03:45:00+00:00
+TORNTPOWER.NS,Torrent Power Limited,Utilities,663640997888,2006-11-28 03:45:00+00:00
+BAYERCROP.NS,Bayer CropScience Limited,Basic Materials,205003358208,2010-01-08 03:45:00+00:00
+ADVENTHTL.NS,Advent Hotels International Limited,Consumer Cyclical,13381136384,2025-11-13 03:45:00+00:00
+SRF.NS,SRF Limited,Industrials,842943299584,2002-07-01 03:45:00+00:00
+CONCORDBIO.NS,Concord Biotech Limited,Healthcare,149109751808,2023-08-18 03:45:00+00:00
+HONASA.NS,Honasa Consumer Limited,Consumer Defensive,94389780480,2023-11-07 03:45:00+00:00
+ALOKINDS.NS,Alok Industries Limited,Consumer Cyclical,84457816064,1996-01-02 03:45:00+00:00
+BIOCON.NS,Biocon Limited,Healthcare,532695318528,2004-04-07 03:45:00+00:00
+SHREECEM.NS,Shree Cement Limited,Basic Materials,964895178752,2001-07-02 03:45:00+00:00
+BLACKBUCK.NS,BlackBuck Limited,Technology,122698162176,2024-11-22 03:45:00+00:00
+TEXRAIL.NS,Texmaco Rail & Engineering Limited,Industrials,52729651200,2004-09-09 03:45:00+00:00
+ALKYLAMINE.NS,Alkyl Amines Chemicals Limited,Basic Materials,87619854336,2007-11-26 03:45:00+00:00
+WIPRO.NS,Wipro Limited,Technology,2607863824384,1996-01-01 03:45:00+00:00
+ITC.NS,ITC Limited,Consumer Defensive,5047839096832,1996-01-01 03:45:00+00:00
+CMSINFO.NS,CMS Info Systems Limited,Industrials,58279874560,2021-12-31 03:45:00+00:00
+IONEXCHANG.NS,Ion Exchange (India) Limited,Industrials,43130146816,2022-02-22 03:45:00+00:00
+GMRP&UI.NS,GMR Power And Urban Infra Limited,Energy,86593249280,2022-03-23 03:45:00+00:00
+SUNDARMFIN.NS,Sundaram Finance Limited,Financial Services,515091628032,2002-07-01 03:45:00+00:00
+DABUR.NS,Dabur India Limited,Consumer Defensive,919214882816,2002-07-01 03:45:00+00:00
+IREDA.NS,Indian Renewable Energy Development Agency Limited,Financial Services,403569344512,2023-11-29 03:45:00+00:00
+ASTRAMICRO.NS,Astra Microwave Products Limited,Technology,90045849600,2004-11-01 03:45:00+00:00
+CHALET.NS,Chalet Hotels Limited,Consumer Cyclical,195957702656,2019-02-07 03:45:00+00:00
+SUZLON.NS,Suzlon Energy Limited,Industrials,754565120000,2005-10-19 03:45:00+00:00
+GRASIM.NS,Grasim Industries Limited,Basic Materials,1854694883328,2002-07-01 03:45:00+00:00
+GREENPANEL.NS,Greenpanel Industries Limited,Basic Materials,30975680512,2019-10-23 03:45:00+00:00
+ICICIBANK.NS,ICICI Bank Limited,Financial Services,9942986653696,2002-07-01 03:45:00+00:00
+CGPOWER.NS,CG Power and Industrial Solutions Limited,Industrials,1071488892928,2002-07-01 03:45:00+00:00
+COLPAL.NS,Colgate-Palmolive (India) Limited,Consumer Defensive,590473068544,2002-07-01 03:45:00+00:00
+NLCINDIA.NS,NLC India Limited,Utilities,344657821696,2000-08-23 03:45:00+00:00
+SHYAMMETL.NS,Shyam Metalics and Energy Limited,Basic Materials,227173498880,2021-06-24 03:45:00+00:00
+IRCTC.NS,Indian Railway Catering & Tourism Corporation Limited,Industrials,551000014848,2019-10-14 03:45:00+00:00
+GALLANTT.NS,Gallantt Ispat Limited,Basic Materials,143396175872,2006-04-04 03:45:00+00:00
+JSWENERGY.NS,JSW Energy Limited,Utilities,851070812160,2010-01-04 03:45:00+00:00
+BIKAJI.NS,Bikaji Foods International Limited,Consumer Defensive,179173785600,2022-11-16 03:45:00+00:00
+HINDUNILVR.NS,Hindustan Unilever Limited,Consumer Defensive,5752618483712,1996-01-01 03:45:00+00:00
+NYKAA.NS,FSN E-Commerce Ventures Limited,Consumer Cyclical,757580824576,2021-11-10 03:45:00+00:00
+SEQUENT.NS,Sequent Scientific Limited,Healthcare,56919339008,2016-03-10 03:45:00+00:00
+JAMNAAUTO.NS,Jamna Auto Industries Limited,Consumer Cyclical,45681754112,2010-12-10 03:45:00+00:00
+VSTIND.NS,VST Industries Limited,Consumer Defensive,42843299840,2002-07-01 03:45:00+00:00
+APLLTD.NS,Alembic Pharmaceuticals Limited,Healthcare,178420350976,2011-09-20 03:45:00+00:00
+TECHM.NS,Tech Mahindra Limited,Technology,1336637652992,2006-08-28 03:45:00+00:00
+BDL.NS,Bharat Dynamics Limited,Industrials,550027001856,2018-03-23 03:45:00+00:00
+RTNPOWER.NS,RattanIndia Power Limited,Utilities,53969563648,2009-10-30 03:45:00+00:00
+RAMCOCEM.NS,The Ramco Cements Limited,Basic Materials,240238477312,2002-07-01 03:45:00+00:00
+COFORGE.NS,Coforge Limited,Technology,639686017024,2004-08-30 03:45:00+00:00
+POWERGRID.NS,Power Grid Corporation of India Limited,Utilities,2548365524992,2007-10-05 03:45:00+00:00
+CHOICEIN.NS,Choice International Limited,Financial Services,169604890624,2022-04-08 03:45:00+00:00
+SAMMAANCAP.NS,Sammaan Capital Limited,Financial Services,126693130240,2013-07-23 03:45:00+00:00
+INTELLECT.NS,Intellect Design Arena Limited,Technology,151783440384,2014-12-18 03:45:00+00:00
+ZENSARTECH.NS,Zensar Technologies Limited,Technology,170018013184,2002-07-01 03:45:00+00:00
+NIACL.NS,The New India Assurance Company Limited,Financial Services,281544327168,2017-11-13 03:45:00+00:00
+TCS.NS,Tata Consultancy Services Limited,Technology,11332573200384,2002-08-12 03:45:00+00:00
+BSOFT.NS,Birlasoft Limited,Technology,107189559296,2002-07-01 03:45:00+00:00
+RKFORGE.NS,Ramkrishna Forgings Limited,Industrials,98391736320,2004-05-05 03:45:00+00:00
+LMW.NS,LMW Limited,Industrials,163460579328,2002-07-01 03:45:00+00:00
+HDFCBANK.NS,HDFC Bank Limited,Financial Services,15551223037952,1996-01-01 03:45:00+00:00
+RECLTD.NS,REC Limited,Financial Services,955319255040,2008-03-12 03:45:00+00:00
+POWERMECH.NS,Power Mech Projects Limited,Industrials,74585997312,2015-08-26 03:45:00+00:00
+JCHAC.NS,Bosch Home Comfort India Limited,Consumer Cyclical,45019947008,1999-01-01 03:45:00+00:00
+IMAGICAA.NS,Imagicaaworld Entertainment Limited,Communication Services,27958753280,2015-04-06 03:45:00+00:00
+TATACHEM.NS,Tata Chemicals Limited,Basic Materials,205906755584,1996-01-01 03:45:00+00:00
+CRISIL.NS,CRISIL Limited,Financial Services,324507107328,2002-07-01 03:45:00+00:00
+CGCL.NS,Capri Global Capital Limited,Financial Services,180933066752,2010-10-29 03:45:00+00:00
+GNFC.NS,Gujarat Narmada Valley Fertilizers & Chemicals Limited,Basic Materials,73141846016,2002-07-01 03:45:00+00:00
+NETWEB.NS,Netweb Technologies India Limited,Technology,189932093440,2023-07-27 03:45:00+00:00
+PCJEWELLER.NS,PC Jeweller Limited,Consumer Cyclical,73358237696,2012-12-27 03:45:00+00:00
+RCF.NS,Rashtriya Chemicals and Fertilizers Limited,Basic Materials,78604525568,2002-07-01 03:45:00+00:00
+VINATIORGA.NS,Vinati Organics Limited,Basic Materials,164289298432,2009-07-28 03:45:00+00:00
+THERMAX.NS,Thermax Limited,Industrials,331409129472,2002-07-01 03:45:00+00:00
+KIMS.NS,Krishna Institute of Medical Sciences Limited,Healthcare,274675384320,2021-06-28 03:45:00+00:00
+GUJGASLTD.NS,Gujarat Gas Limited,Utilities,276944683008,2015-09-15 03:45:00+00:00
+SUNTV.NS,Sun TV Network Limited,Communication Services,222657806336,2006-04-24 03:45:00+00:00
+BAJFINANCE.NS,Bajaj Finance Limited,Financial Services,6417126785024,2002-07-01 03:45:00+00:00
+KALYANKJIL.NS,Kalyan Jewellers India Limited,Consumer Cyclical,509567401984,2021-03-26 03:45:00+00:00
+AARTIPHARM.NS,Aarti Pharmalabs Limited,Healthcare,63625338880,2023-01-30 03:45:00+00:00
+AARTIIND.NS,Aarti Industries Limited,Basic Materials,137840803840,2002-07-01 03:45:00+00:00
+CIGNITITEC.NS,Cigniti Technologies Limited,Technology,50699276288,2014-10-13 03:45:00+00:00
+BBL.NS,Bharat Bijlee Limited,Industrials,32612741120,2006-11-21 03:45:00+00:00
+LUXIND.NS,Lux Industries Limited,Consumer Cyclical,36765634560,2015-12-01 03:45:00+00:00
+INDUSINDBK.NS,IndusInd Bank Limited,Financial Services,668252438528,2002-07-01 03:45:00+00:00
+TRANSRAILL.NS,TRANSRAIL LIGHTING LTD,Industrials,87763173376,2024-12-27 03:45:00+00:00
+PGHH.NS,Procter & Gamble Hygiene and Health Care Limited,Consumer Defensive,415400034304,2002-08-12 03:45:00+00:00
+DALBHARAT.NS,Dalmia Bharat Limited,Basic Materials,377354551296,2018-12-21 03:45:00+00:00
+COHANCE.NS,COHANCE LIFESCIENCES LTD,Healthcare,220492562432,2025-05-08 03:45:00+00:00
+MAHLIFE.NS,Mahindra Lifespace Developers Limited,Real Estate,88280104960,2002-07-01 03:45:00+00:00
+KAYNES.NS,Kaynes Technology India Limited,Technology,373566504960,2022-11-22 03:45:00+00:00
+ACE.NS,Action Construction Equipment Limited,Industrials,116563492864,2006-09-26 03:45:00+00:00
+VMM.NS,VISHAL MEGA MART LIMITED,Consumer Cyclical,631061348352,2024-12-18 03:45:00+00:00
+SPARC.NS,Sun Pharma Advanced Research Company Limited,Healthcare,43495628800,2003-01-14 03:45:00+00:00
+UTIAMC.NS,UTI Asset Management Company Limited,Financial Services,146538119168,2020-10-13 03:45:00+00:00
+M&M.NS,Mahindra & Mahindra Limited,Consumer Cyclical,4412210151424,1996-01-01 03:45:00+00:00
+IGL.NS,Indraprastha Gas Limited,Utilities,277794783232,2003-12-26 03:45:00+00:00
+NETWORK18.NS,Network18 Media & Investments Limited,Communication Services,70049439744,2002-08-12 03:45:00+00:00
+CHOLAHLDNG.NS,Cholamandalam Financial Holdings Limited,Financial Services,338803949568,2002-07-01 03:45:00+00:00
+INDIGOPNTS.NS,Indigo Paints Limited,Basic Materials,61291503616,2021-02-02 03:45:00+00:00
+BAJAJHFL.NS,BAJAJ HOUSING FINANCE LTD,Financial Services,877002555392,2024-09-16 03:45:00+00:00
+TI.NS,Tilaknagar Industries Ltd.,Consumer Defensive,115347742720,2010-07-16 03:45:00+00:00
+HOMEFIRST.NS,Home First Finance Company India Limited,Financial Services,115063275520,2021-02-03 03:45:00+00:00
+CESC.NS,CESC Limited,Utilities,226109538304,2002-07-01 03:45:00+00:00
+TMPV.NS,Tata Motors Passenger Vehicles Limited,Consumer Cyclical,2635552784384,2025-10-15 03:45:00+00:00
+ADANIPORTS.NS,Adani Ports and Special Economic Zone Limited,Industrials,3257505677312,2007-11-27 03:45:00+00:00
+HEXT.NS,Hexaware Technologies Limited,Technology,455780827136,2025-02-19 03:45:00+00:00
+KRN.NS,KRN HEAT EXCHANGE N REF L,Technology,51241902080,2024-10-03 03:45:00+00:00
+NESCO.NS,Nesco Limited,Industrials,89827860480,2008-04-08 03:45:00+00:00
+VESUVIUS.NS,Vesuvius India Limited,Industrials,98222309376,2002-07-01 03:45:00+00:00
+SANOFI.NS,Sanofi India Limited,Healthcare,100431863808,2002-07-01 03:45:00+00:00
+BERGEPAINT.NS,Berger Paints India Limited,Basic Materials,663044358144,2002-07-01 03:45:00+00:00
+PRINCEPIPE.NS,Prince Pipes and Fittings Limited,Industrials,30829957120,2019-12-30 03:45:00+00:00
+PREMIERENE.NS,PREMIER ENERGIES LIMITED,Technology,444257501184,2024-09-03 03:45:00+00:00
+MARICO.NS,Marico Limited,Consumer Defensive,940017451008,1996-05-01 03:45:00+00:00
+SYMPHONY.NS,Symphony Limited,Consumer Cyclical,59249684480,2011-06-15 03:45:00+00:00
+ASTRAZEN.NS,AstraZeneca Pharma India Limited,Healthcare,224884539392,2002-07-01 03:45:00+00:00
+PERSISTENT.NS,Persistent Systems Limited,Technology,1000528084992,2010-04-06 03:45:00+00:00
+TRENT.NS,Trent Limited,Consumer Cyclical,1516332777472,2002-07-01 03:45:00+00:00
+SIGNATURE.NS,Signatureglobal (India) Limited,Real Estate,157646094336,2023-09-27 03:45:00+00:00
+SONATSOFTW.NS,Sonata Software Limited,Technology,99781943296,2002-07-01 03:45:00+00:00
+RAINBOW.NS,Rainbow Children's Medicare Limited,Healthcare,138038968320,2022-05-10 03:45:00+00:00
+EMIL.NS,Electronics Mart India Limited,Consumer Cyclical,47363563520,2022-10-17 03:45:00+00:00
+INDIGO.NS,InterGlobe Aviation Limited,Industrials,2288806789120,2015-11-10 03:45:00+00:00
+MRF.NS,MRF Limited,Consumer Cyclical,652164333568,2002-07-01 03:45:00+00:00
+ABBOTINDIA.NS,Abbott India Limited,Healthcare,624835756032,2002-08-12 03:45:00+00:00
+BALRAMCHIN.NS,Balrampur Chini Mills Limited,Consumer Defensive,90615160832,2002-07-01 03:45:00+00:00
+IRB.NS,IRB Infrastructure Developers Limited,Industrials,261491769344,2008-02-25 03:45:00+00:00
+PRIVISCL.NS,Privi Speciality Chemicals Limited,Basic Materials,119664680960,2015-05-08 03:45:00+00:00
+JUSTDIAL.NS,Just Dial Limited,Communication Services,63013838848,2013-06-05 03:45:00+00:00
+JAIBALAJI.NS,Jai Balaji Industries Limited,Basic Materials,63022919680,2003-12-09 03:45:00+00:00
+TRIDENT.NS,Trident Limited,Consumer Cyclical,143689728000,2002-07-01 03:45:00+00:00
+VMART.NS,V-Mart Retail Limited,Consumer Cyclical,62232535040,2013-02-20 03:45:00+00:00
+BATAINDIA.NS,Bata India Limited,Consumer Cyclical,128527532032,2002-07-01 03:45:00+00:00
+EICHERMOT.NS,Eicher Motors Limited,Consumer Cyclical,1918585929728,1996-01-01 03:45:00+00:00
+CROMPTON.NS,Crompton Greaves Consumer Electricals Limited,Consumer Cyclical,172086247424,2016-05-13 03:45:00+00:00
+KRBL.NS,KRBL Limited,Consumer Defensive,93700382720,2002-01-24 03:45:00+00:00
+STAR.NS,Strides Pharma Science Limited,Healthcare,82125889536,2002-06-26 03:45:00+00:00
+GESHIP.NS,The Great Eastern Shipping Company Limited,Industrials,156415705088,2002-07-01 03:45:00+00:00
+ABFRL.NS,Aditya Birla Fashion and Retail Limited,Consumer Cyclical,93891371008,2013-07-17 03:45:00+00:00
+CCL.NS,CCL Products (India) Limited,Consumer Defensive,132612521984,2004-06-07 03:45:00+00:00
+GODIGIT.NS,GO DIGIT GENERAL INS LTD,Financial Services,328157921280,2024-05-23 03:45:00+00:00
+PAGEIND.NS,Page Industries Limited,Consumer Cyclical,434331844608,2007-03-16 03:45:00+00:00
+UNITDSPR.NS,UNITED SPIRITS LIMITED,Consumer Defensive,1053496049664,2024-05-30 03:45:00+00:00
+BELRISE.NS,BELRISE INDUSTRIES LTD,Consumer Cyclical,147444088832,2025-05-28 03:45:00+00:00
+OFSS.NS,Oracle Financial Services Software Limited,Technology,708807557120,2002-06-28 03:45:00+00:00
+KEC.NS,KEC International Limited,Industrials,187364868096,2002-08-12 03:45:00+00:00
+GLAXO.NS,GlaxoSmithKline Pharmaceuticals Limited,Healthcare,426496655360,2002-07-01 03:45:00+00:00
+INOXWIND.NS,Inox Wind Limited,Industrials,233312108544,2015-04-09 03:45:00+00:00
+CAPLIPOINT.NS,Caplin Point Laboratories Limited,Healthcare,145485905920,2014-06-23 03:45:00+00:00
+BIRLACORPN.NS,Birla Corporation Limited,Basic Materials,86305726464,2002-07-01 03:45:00+00:00
+BASF.NS,BASF India Limited,Basic Materials,179696009216,2002-07-01 03:45:00+00:00
+DHANUKA.NS,Dhanuka Agritech Limited,Basic Materials,56347906048,2011-06-29 03:45:00+00:00
+HDFCAMC.NS,HDFC Asset Management Company Limited,Financial Services,1147352383488,2018-08-06 03:45:00+00:00
+DCMSHRIRAM.NS,DCM Shriram Limited,Industrials,190189158400,2002-07-01 03:45:00+00:00
+BALUFORGE.NS,Balu Forge Industries Limited,Industrials,71019642880,2024-04-29 03:45:00+00:00
+VOLTAMP.NS,Voltamp Transformers Limited,Industrials,81695744000,2006-09-20 03:45:00+00:00
+KOTAKBANK.NS,Kotak Mahindra Bank Limited,Financial Services,4195672129536,2001-07-02 03:45:00+00:00
+BOSCHLTD.NS,Bosch Limited,Consumer Cyclical,1071913566208,2002-07-01 03:45:00+00:00
+UJJIVANSFB.NS,Ujjivan Small Finance Bank Limited,Financial Services,106310148096,2019-12-12 03:45:00+00:00
+GLAND.NS,Gland Pharma Limited,Healthcare,292409704448,2020-11-20 03:45:00+00:00
+ARVIND.NS,Arvind Limited,Consumer Cyclical,92956540928,2002-07-01 03:45:00+00:00
+IKS.NS,INVENTURUS KNOWLEDGE SO L,Healthcare,285502406656,2024-12-19 03:45:00+00:00
+ITCHOTELS.NS,ITC HOTELS LIMITED,Consumer Cyclical,439647895552,2025-01-29 03:45:00+00:00
+MASTEK.NS,Mastek Limited,Technology,68557643776,2002-07-01 03:45:00+00:00
+WESTLIFE.NS,Westlife Foodworld Limited,Consumer Cyclical,87612162048,2019-08-19 03:45:00+00:00
+TATATECH.NS,Tata Technologies Limited,Technology,274727272448,2023-11-30 03:45:00+00:00
+INOXGREEN.NS,Inox Green Energy Services Limited,Utilities,83578060800,2022-11-23 03:45:00+00:00
+ENTERO.NS,Entero Healthcare Solutions Limited,Healthcare,45086027776,2024-02-16 03:45:00+00:00
+MRPL.NS,Mangalore Refinery and Petrochemicals Limited,Energy,281186959360,1996-01-01 03:45:00+00:00
+SAPPHIRE.NS,Sapphire Foods India Limited,Consumer Cyclical,81165254656,2021-11-18 03:45:00+00:00
+LLOYDSENT.NS,Lloyds Enterprises Limited,Basic Materials,88494219264,2024-10-17 03:45:00+00:00
+ZEEL.NS,Zee Entertainment Enterprises Limited,Communication Services,94707212288,2002-07-01 03:45:00+00:00
+POLYMED.NS,Poly Medicure Limited,Healthcare,198664601600,2011-12-07 03:45:00+00:00
+ACI.NS,Archean Chemical Industries Limited,Basic Materials,64893186048,2022-11-21 03:45:00+00:00
+POLICYBZR.NS,PB Fintech Limited,Financial Services,835300360192,2021-11-15 03:45:00+00:00
+JSL.NS,Jindal Stainless Limited,Basic Materials,635124580352,2003-11-17 03:45:00+00:00
+NAUKRI.NS,Info Edge (India) Limited,Communication Services,861082091520,2006-11-21 03:45:00+00:00
+TATAELXSI.NS,Tata Elxsi Limited,Technology,323219881984,2002-07-01 03:45:00+00:00
+OSWALPUMPS.NS,OSWAL PUMPS LIMITED,Industrials,63770365952,2025-06-20 03:45:00+00:00
+ASTRAL.NS,Astral Limited,Industrials,394862034944,2007-03-20 03:45:00+00:00
+GANESHHOU.NS,Ganesh Housing Limited,Real Estate,72534827008,2025-09-10 03:45:00+00:00
+HCLTECH.NS,HCL Technologies Limited,Technology,4400725098496,2002-08-12 03:45:00+00:00
+CYIENT.NS,Cyient Limited,Industrials,122653777920,2006-07-28 03:45:00+00:00
+NH.NS,Narayana Hrudayalaya Limited,Healthcare,396938346496,2016-01-06 03:45:00+00:00
+DBREALTY.NS,Valor Estate Limited,Real Estate,73488162816,2010-02-24 03:45:00+00:00
+COROMANDEL.NS,Coromandel International Limited,Basic Materials,696205967360,2002-08-12 03:45:00+00:00
+NUVAMA.NS,Nuvama Wealth Management Limited,Financial Services,267614158848,2023-09-26 03:45:00+00:00
+MGL.NS,Mahanagar Gas Limited,Utilities,119916216320,2016-07-01 03:45:00+00:00
+MAZDOCK.NS,Mazagon Dock Shipbuilders Limited,Industrials,1079848927232,2020-10-12 03:45:00+00:00
+TRITURBINE.NS,Triveni Turbine Limited,Industrials,172421529600,2011-10-28 03:45:00+00:00
+WOCKPHARMA.NS,Wockhardt Limited,Healthcare,208769957888,2002-07-01 03:45:00+00:00
+SHAREINDIA.NS,Share India Securities Limited,Financial Services,37405995008,2020-09-21 03:45:00+00:00
+DOMS.NS,DOMS Industries Limited,Industrials,153449267200,2023-12-20 03:45:00+00:00
+SJVN.NS,SJVN Limited,Utilities,310257319936,2010-05-20 03:45:00+00:00
+INOXINDIA.NS,INOX India Limited,Industrials,107327840256,2023-12-21 03:45:00+00:00
+POLYPLEX.NS,Polyplex Corporation Limited,Basic Materials,26434021376,2002-07-01 03:45:00+00:00
+NESTLEIND.NS,Nestlé India Limited,Consumer Defensive,2436425318400,2002-08-12 03:45:00+00:00
+WELSPUNLIV.NS,Welspun Living Limited,Consumer Cyclical,126385045504,2003-12-04 03:45:00+00:00
+CSBBANK.NS,CSB Bank Limited,Financial Services,70613377024,2019-12-04 03:45:00+00:00
+TEJASNET.NS,Tejas Networks Limited,Technology,89653551104,2017-06-27 03:45:00+00:00
+IFCI.NS,IFCI Limited,Financial Services,138809802752,2002-07-01 03:45:00+00:00
+GANECOS.NS,Ganesha Ecosphere Limited,Consumer Cyclical,24587259904,2015-03-09 03:45:00+00:00
+SENCO.NS,Senco Gold Limited,Consumer Cyclical,50801799168,2023-07-14 03:45:00+00:00
+GARFIBRES.NS,Garware Technical Fibres Limited,Consumer Cyclical,70373752832,2002-08-12 03:45:00+00:00
+GODFRYPHLP.NS,Godfrey Phillips India Limited,Consumer Defensive,458227613696,1999-01-04 03:45:00+00:00
+DYNAMATECH.NS,Dynamatic Technologies Limited,Consumer Cyclical,60692094976,2006-09-14 03:45:00+00:00
+SKIPPER.NS,Skipper Limited,Industrials,53105459200,2015-05-27 03:45:00+00:00
+GPIL.NS,Godawari Power & Ispat Limited,Basic Materials,151490035712,2006-04-25 03:45:00+00:00
+BORORENEW.NS,Borosil Renewables Limited,Technology,82941878272,2018-05-25 03:45:00+00:00
+NAZARA.NS,Nazara Technologies Limited,Communication Services,94227644416,2021-03-30 03:45:00+00:00
+SANOFICONR.NS,SANOFI CONS HEALTHC IND L,Healthcare,109009756160,2024-09-13 03:45:00+00:00
+JKTYRE.NS,JK Tyre & Industries Limited,Consumer Cyclical,122993893376,2004-06-14 03:45:00+00:00
+SAILIFE.NS,SAI LIFE SCIENCES LIMITED,Healthcare,184628166656,2024-12-18 03:45:00+00:00
+PGIL.NS,Pearl Global Industries Limited,Consumer Cyclical,77854687232,2007-02-15 03:45:00+00:00
+CANFINHOME.NS,Can Fin Homes Limited,Financial Services,118160973824,2002-07-01 03:45:00+00:00
+INDIASHLTR.NS,India Shelter Finance Corporation Limited,Financial Services,94168924160,2023-12-20 03:45:00+00:00
+AEGISVOPAK.NS,AEGIS VOPAK TERMINALS LTD,Energy,293174575104,2025-06-02 03:45:00+00:00
+TECHNOE.NS,Techno Electric & Engineering Company Limited,Industrials,140257296384,2007-04-02 03:45:00+00:00
+KNRCON.NS,KNR Constructions Limited,Industrials,45711867904,2008-02-18 03:45:00+00:00
+MAPMYINDIA.NS,C. E. Info Systems Limited,Technology,90635722752,2021-12-21 03:45:00+00:00
+GRINFRA.NS,G R Infraprojects Limited,Industrials,104824283136,2021-07-19 03:45:00+00:00
+DIXON.NS,Dixon Technologies (India) Limited,Technology,884407205888,2017-09-18 03:45:00+00:00
+HINDPETRO.NS,Hindustan Petroleum Corporation Limited,Energy,984011505664,1996-01-02 03:45:00+00:00
+SONACOMS.NS,Sona BLW Precision Forgings Limited,Consumer Cyclical,317899800576,2021-06-24 03:45:00+00:00
+RENUKA.NS,Shree Renuka Sugars Limited,Consumer Defensive,57922985984,2005-10-31 03:45:00+00:00
+PURVA.NS,Puravankara Limited,Real Estate,59085840384,2007-08-30 03:45:00+00:00
+BLS.NS,BLS International Services Limited,Industrials,131741138944,2016-06-15 03:45:00+00:00
+SCHAEFFLER.NS,Schaeffler India Limited,Consumer Cyclical,597064351744,2002-07-01 03:45:00+00:00
+ABSLAMC.NS,Aditya Birla Sun Life AMC Limited,Financial Services,210324520960,2021-10-11 03:45:00+00:00
+IOC.NS,Indian Oil Corporation Limited,Energy,2307410362368,1996-04-15 03:45:00+00:00
+BPCL.NS,Bharat Petroleum Corporation Limited,Energy,1578999218176,1996-01-02 03:45:00+00:00
+WAAREERTL.NS,Waaree Renewable Technologies Limited,Utilities,112210812928,2025-04-09 03:45:00+00:00
+SKFINDIA.NS,SKF India Limited,Industrials,95415271424,2002-08-12 03:45:00+00:00
+MAHSEAMLES.NS,Maharashtra Seamless Limited,Basic Materials,77016064000,2002-07-01 03:45:00+00:00
+GOKEX.NS,Gokaldas Exports Limited,Consumer Cyclical,67263324160,2005-04-27 03:45:00+00:00
+RATEGAIN.NS,RateGain Travel Technologies Limited,Technology,83434577920,2021-12-17 03:45:00+00:00
+JYOTHYLAB.NS,Jyothy Labs Limited,Consumer Defensive,111559761920,2007-12-19 03:45:00+00:00
+MEDANTA.NS,Global Health Limited,Healthcare,334829715456,2022-11-18 03:45:00+00:00
+CAMS.NS,Computer Age Management Services Limited,Technology,192953597952,2020-10-05 03:45:00+00:00
+AFFLE.NS,Affle 3i Limited,Communication Services,235375640576,2019-08-08 03:45:00+00:00
+ALIVUS.NS,Alivus Life Sciences Limited,Healthcare,110504468480,2025-01-13 03:45:00+00:00
+DODLA.NS,Dodla Dairy Limited,Consumer Defensive,75119460352,2021-06-28 03:45:00+00:00
+PRSMJOHNSN.NS,Prism Johnson Limited,Basic Materials,69523611648,2002-07-01 03:45:00+00:00
+TIINDIA.NS,Tube Investments of India Limited,Industrials,549294243840,2017-11-02 03:45:00+00:00
+SCI.NS,The Shipping Corporation of India Limited,Industrials,107459829760,2002-07-01 03:45:00+00:00
+EMAMILTD.NS,Emami Limited,Consumer Defensive,230967115776,2006-08-03 03:45:00+00:00
+APOLLOTYRE.NS,Apollo Tyres Limited,Consumer Cyclical,328587116544,2002-01-01 03:45:00+00:00
+ARE&M.NS,Amara Raja Energy & Mobility Limited,Industrials,173105381376,2023-10-18 03:45:00+00:00
+ESCORTS.NS,Escorts Kubota Limited,Industrials,420760584192,1996-01-01 03:45:00+00:00
+PRAJIND.NS,Praj Industries Limited,Industrials,59417579520,2002-07-01 03:45:00+00:00
+GILLETTE.NS,Gillette India Limited,Consumer Defensive,284925132800,2002-07-01 03:45:00+00:00
+INFY.NS,Infosys Limited,Technology,6474493329408,1996-01-01 03:45:00+00:00
+360ONE.NS,360 One Wam Limited,Financial Services,470758064128,2019-09-19 03:45:00+00:00
+WABAG.NS,VA Tech Wabag Limited,Industrials,86995042304,2010-10-13 03:45:00+00:00
+3MINDIA.NS,3M India Limited,Industrials,395572936704,2002-07-01 03:45:00+00:00
+UBL.NS,United Breweries Limited,Consumer Defensive,448457572352,2008-07-28 03:45:00+00:00
+ELECON.NS,Elecon Engineering Company Limited,Industrials,111839551488,2006-09-29 03:45:00+00:00
+STARHEALTH.NS,Star Health and Allied Insurance Company Limited,Financial Services,288812630016,2021-12-10 03:45:00+00:00
+GSPL.NS,Gujarat State Petronet Limited,Utilities,166503202816,2006-02-16 03:45:00+00:00
+NAVINFLUOR.NS,Navin Fluorine International Limited,Basic Materials,293574574080,2007-06-01 03:45:00+00:00
+KPITTECH.NS,KPIT Technologies Limited,Technology,330689773568,2019-04-22 03:45:00+00:00
+BLUESTARCO.NS,Blue Star Limited,Industrials,362619273216,2002-07-01 03:45:00+00:00
+TIMETECHNO.NS,Time Technoplast Limited,Consumer Cyclical,98804760576,2007-06-13 03:45:00+00:00
+PNGJL.NS,P N GADGIL JEWELLERS LTD,Consumer Cyclical,85110005760,2024-09-17 03:45:00+00:00
+BBTC.NS,The Bombay Burmah Trading Corporation Limited,Consumer Defensive,128919379968,2002-07-01 03:45:00+00:00
+AURIONPRO.NS,Aurionpro Solutions Limited,Technology,60919762944,2005-10-25 03:45:00+00:00
+STLTECH.NS,Sterlite Technologies Limited,Technology,52009750528,2000-12-08 03:45:00+00:00
+JSFB.NS,Jana Small Finance Bank Limited,Financial Services,47470964736,2024-02-14 03:45:00+00:00
+EMUDHRA.NS,eMudhra Limited,Technology,50660118528,2022-06-01 03:45:00+00:00
+PAYTM.NS,One97 Communications Limited,Technology,825836437504,2021-11-18 03:45:00+00:00
+RELINFRA.NS,Reliance Infrastructure Limited,Utilities,67696852992,1996-01-01 03:45:00+00:00
+LALPATHLAB.NS,Dr. Lal PathLabs Limited,Healthcare,259499229184,2015-12-23 03:45:00+00:00
+THANGAMAYL.NS,Thangamayil Jewellery Limited,Consumer Cyclical,100295467008,2010-02-19 03:45:00+00:00
+TBOTEK.NS,TBO TEK LIMITED,Consumer Cyclical,180374552576,2024-05-15 03:45:00+00:00
+THOMASCOOK.NS,Thomas Cook (India) Limited,Consumer Cyclical,68471808000,2002-07-01 03:45:00+00:00
+RVNL.NS,Rail Vikas Nigam Limited,Industrials,676098736128,2019-04-11 03:45:00+00:00
+MSUMI.NS,Motherson Sumi Wiring India Limited,Consumer Cyclical,305785929728,2022-03-28 03:45:00+00:00
+AHLUCONT.NS,Ahluwalia Contracts (India) Limited,Industrials,66284191744,2009-12-14 03:45:00+00:00
+BANCOINDIA.NS,Banco Products (India) Limited,Consumer Cyclical,97469030400,2006-12-22 03:45:00+00:00
+TATAINVEST.NS,Tata Investment Corporation Limited,Financial Services,383306694656,1996-01-01 03:45:00+00:00
+NTPCGREEN.NS,NTPC GREEN ENERGY LIMITED,Utilities,799742951424,2024-11-27 03:45:00+00:00
+FINEORG.NS,Fine Organic Industries Limited,Basic Materials,135839023104,2018-07-02 03:45:00+00:00
+HGINFRA.NS,H.G. Infra Engineering Limited,Industrials,57350578176,2018-03-09 03:45:00+00:00
+BHARTIHEXA.NS,BHARTI HEXACOM LIMITED,Communication Services,879999975424,2024-04-12 03:45:00+00:00
+EASEMYTRIP.NS,Easy Trip Planners Limited,Consumer Cyclical,26072377344,2021-03-19 03:45:00+00:00
+FIRSTCRY.NS,BRAINBEES SOLUTIONS LTD,Consumer Cyclical,147929251840,2024-08-13 03:45:00+00:00
+ASTERDM.NS,Aster DM Healthcare Limited,Healthcare,345250168832,2018-02-26 03:45:00+00:00
+KIRLOSBROS.NS,Kirloskar Brothers Limited,Industrials,135264829440,2006-04-07 03:45:00+00:00
+HAPPSTMNDS.NS,Happiest Minds Technologies Limited,Technology,74880163840,2020-09-17 03:45:00+00:00
+JINDWORLD.NS,Jindal Worldwide Limited,Consumer Cyclical,33445683200,2010-11-25 03:45:00+00:00
+INDIAGLYCO.NS,India Glycols Limited,Basic Materials,72301764608,2002-08-12 03:45:00+00:00
+TATACONSUM.NS,Tata Consumer Products Limited,Consumer Defensive,1158113132544,1996-01-01 03:45:00+00:00
+PRICOLLTD.NS,Pricol Limited,Consumer Cyclical,75091189760,2002-07-01 03:45:00+00:00
+GRAVITA.NS,Gravita India Limited,Industrials,133282766848,2010-11-16 03:45:00+00:00
+SWANCORP.NS,Swan Corp Limited,Industrials,138328064000,2012-05-29 03:45:00+00:00
+APTUS.NS,Aptus Value Housing Finance India Limited,Financial Services,140892585984,2021-08-24 03:45:00+00:00
+GHCL.NS,GHCL Limited,Basic Materials,55193415680,1996-01-01 03:45:00+00:00
+REDINGTON.NS,Redington Limited,Technology,222023925760,2007-02-15 03:45:00+00:00
+LTIM.NS,LTIMindtree Limited,Technology,1770834231296,2016-07-21 03:45:00+00:00
+CASTROLIND.NS,Castrol India Limited,Energy,189011394560,2002-08-12 03:45:00+00:00
+ZFCVINDIA.NS,ZF Commercial Vehicle Control Systems India Limited,Consumer Cyclical,248399478784,2002-08-12 03:45:00+00:00
+ISGEC.NS,Isgec Heavy Engineering Limited,Industrials,61212164096,2021-05-05 03:45:00+00:00
+LLOYDSME.NS,Lloyds Metals and Energy Limited,Basic Materials,652620988416,2023-07-17 03:45:00+00:00
+MAXESTATES.NS,MAX ESTATES LIMITED,Real Estate,78195769344,2023-10-30 03:45:00+00:00
+INNOVACAP.NS,Innova Captab Limited,Healthcare,41656885248,2023-12-29 03:45:00+00:00
+ADANIENT.NS,Adani Enterprises Limited,Energy,2702935588864,2002-07-01 03:45:00+00:00
+NEWGEN.NS,Newgen Software Technologies Limited,Technology,123840528384,2018-01-29 03:45:00+00:00
+CERA.NS,Cera Sanitaryware Limited,Industrials,71593254912,2007-11-02 03:45:00+00:00
+AETHER.NS,Aether Industries Limited,Basic Materials,118111608832,2022-06-03 03:45:00+00:00
+NAM-INDIA.NS,Nippon Life India Asset Management Limited,Financial Services,551826882560,2017-11-06 03:45:00+00:00
+DCBBANK.NS,DCB Bank Limited,Financial Services,58759151616,2006-10-27 03:45:00+00:00
+INGERRAND.NS,Ingersoll-Rand (India) Limited,Industrials,119642718208,2002-07-01 03:45:00+00:00
+VGUARD.NS,V-Guard Industries Limited,Industrials,147735101440,2008-03-13 03:45:00+00:00
+PRUDENT.NS,Prudent Corporate Advisory Services Limited,Financial Services,103550959616,2022-05-20 03:45:00+00:00
+MOTILALOFS.NS,Motilal Oswal Financial Services Limited,Financial Services,554851893248,2007-09-11 03:45:00+00:00
+VIJAYA.NS,Vijaya Diagnostic Centre Limited,Healthcare,103438876672,2021-09-14 03:45:00+00:00
+ASAHIINDIA.NS,Asahi India Glass Limited,Consumer Cyclical,260956241920,2002-07-01 03:45:00+00:00
+AVANTIFEED.NS,Avanti Feeds Limited,Consumer Defensive,108276744192,2010-01-08 03:45:00+00:00
+SUNDRMFAST.NS,Sundram Fasteners Limited,Consumer Cyclical,200430944256,2002-07-01 03:45:00+00:00
+VTL.NS,Vardhman Textiles Limited,Consumer Cyclical,123557904384,2002-07-01 03:45:00+00:00
+TIMKEN.NS,Timken India Limited,Industrials,236645679104,2002-08-12 03:45:00+00:00
+SKYGOLD.NS,Sky Gold and Diamonds Limited,Consumer Cyclical,51856175104,2023-01-06 03:45:00+00:00
+ENGINERSIN.NS,Engineers India Limited,Industrials,112436576256,1997-09-16 03:45:00+00:00
+ECLERX.NS,eClerx Services Limited,Technology,211483590656,2007-12-31 03:45:00+00:00
+INFIBEAM.NS,Infibeam Avenues Limited,Technology,67810263040,2016-04-04 03:45:00+00:00
+DEEPAKNTR.NS,Deepak Nitrite Limited,Basic Materials,213090041856,2010-09-29 03:45:00+00:00
+RAJESHEXPO.NS,Rajesh Exports Limited,Consumer Cyclical,55122427904,2002-07-01 03:45:00+00:00
+MEDPLUS.NS,MedPlus Health Services Limited,Healthcare,94364966912,2021-12-23 03:45:00+00:00
+VIPIND.NS,V.I.P. Industries Limited,Consumer Cyclical,53411340288,2002-07-01 03:45:00+00:00
+UNIMECH.NS,UNIMECH AEROSPACE N MFG L,Industrials,49783803904,2024-12-31 03:45:00+00:00
+LTTS.NS,L&T Technology Services Limited,Technology,463253635072,2016-09-23 03:45:00+00:00
+FIVESTAR.NS,Five-Star Business Finance Limited,Financial Services,173563232256,2022-11-21 03:45:00+00:00
+TATACOMM.NS,Tata Communications Limited,Communication Services,526793998336,2002-07-01 03:45:00+00:00
+EQUITASBNK.NS,Equitas Small Finance Bank Limited,Financial Services,74640605184,2020-11-02 03:45:00+00:00
+PVRINOX.NS,PVR INOX Limited,Communication Services,104965570560,2022-11-10 03:45:00+00:00
+KPRMILL.NS,K.P.R. Mill Limited,Consumer Cyclical,370389647360,2007-08-28 03:45:00+00:00
+KSB.NS,KSB Limited,Industrials,128971759616,2002-07-01 03:45:00+00:00
+JKIL.NS,J. Kumar Infraprojects Limited,Industrials,44563197952,2008-02-12 03:45:00+00:00
+AGARWALEYE.NS,DR AGARWALS HEALTH CARE L,Healthcare,165942280192,2025-02-04 03:45:00+00:00
+ACC.NS,ACC Limited,Basic Materials,351120424960,2002-07-01 03:45:00+00:00
+GABRIEL.NS,Gabriel India Limited,Consumer Cyclical,149260402688,2005-04-20 03:45:00+00:00
+AAVAS.NS,Aavas Financiers Limited,Financial Services,125372841984,2018-10-08 03:45:00+00:00
+SWIGGY.NS,SWIGGY LIMITED,Consumer Cyclical,898625175552,2024-11-13 03:45:00+00:00
+SCHNEIDER.NS,Schneider Electric Infrastructure Limited,Industrials,171616911360,2012-03-20 03:45:00+00:00
+ERIS.NS,Eris Lifesciences Limited,Healthcare,219322826752,2017-06-30 03:45:00+00:00
+YATHARTH.NS,Yatharth Hospital & Trauma Care Services Limited,Healthcare,74704330752,2023-08-07 03:45:00+00:00
+CLEAN.NS,Clean Science and Technology Limited,Basic Materials,97793146880,2021-07-19 03:45:00+00:00
+NFL.NS,National Fertilizers Limited,Basic Materials,41861054464,2006-12-28 03:45:00+00:00
+ENRIN.NS,Siemens Energy India Limited,Utilities,1109600370688,2025-06-19 03:45:00+00:00
+RITES.NS,RITES Limited,Industrials,114768035840,2018-07-03 03:45:00+00:00
+ORCHPHARMA.NS,Orchid Pharma Limited,Healthcare,43547422720,2002-07-01 03:45:00+00:00
+HONAUT.NS,Honeywell Automation India Limited,Industrials,314537181184,2002-07-01 03:45:00+00:00
+ZYDUSWELL.NS,Zydus Wellness Limited,Consumer Defensive,138256728064,2009-11-13 03:45:00+00:00
+ELGIEQUIP.NS,Elgi Equipments Limited,Industrials,157093216256,2002-07-01 03:45:00+00:00
+ITI.NS,ITI Limited,Technology,302967554048,2002-07-01 03:45:00+00:00
+ACUTAAS.NS,Acutaas Chemicals Limited,Basic Materials,146558255104,2025-06-02 03:45:00+00:00
+AIIL.NS,Authum Investment & Infrastructure Limited,Financial Services,464356507648,2024-04-23 03:45:00+00:00
+ALLCARGO.NS,Allcargo Logistics Limited,Industrials,12151008256,2006-06-23 03:45:00+00:00
+AWL.NS,AWL Agri Business Limited,Consumer Defensive,338392678400,2022-02-08 03:45:00+00:00
